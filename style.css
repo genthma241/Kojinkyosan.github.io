@@ -1,0 +1,14 @@
+
+.box3-1, .box3-2, .box2-3, .box3-4, .box3-5, .box3-6, .box3-7, 
+.box3-8, .box3-9, .box2-10, .box3-11, .box3-12, .box3-13, .box3-14, 
+.box3-15, .box3-16, .box2-17{
+	width: 18%;
+	float: left;
+	padding: 0;
+        border: solid 2px;
+	}
+.box3-1, .box3-2, .box3-3, .box3-4,.box3-6, .box3-7, 
+.box3-8, .box3-9, .box3-11, .box3-12, .box3-13, .box3-14, 
+.box3-16, .box3-17{
+margin-right: 2%;
+	}
